@@ -34,7 +34,7 @@ li  {
 /* Header Section */
 
 .headerBanner {
-    background-image: url("https://ckdgzmn.github.io/images/bannerimage.jpg");
+    background-image: url("/images/bannerimage.jpg");
     background-position: bottom center;
     background-size:cover;
     height: 700px;
