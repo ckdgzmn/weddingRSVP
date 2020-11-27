@@ -34,9 +34,9 @@ li  {
 /* Header Section */
 
 .headerBanner {
-    background-image: url("bannerimage.jpg");
-    background-repeat: no-repeat;
+    background-image: url("/images/bannerimage.jpg");
     background-position: bottom center;
+    background-size:cover;
     height: 700px;
 }
 
