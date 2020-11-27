@@ -1,0 +1,75 @@
+body {
+    text-align: center;
+    margin: auto;
+    font-family: 'Quicksand';
+    color: #5f5f5f;
+}
+
+nav {
+    padding: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #000;
+    padding: 10px 30px;
+    color: #5f5f5f;
+}
+
+h1 {
+    font-family: 'Engagement';
+    font-weight: 100;
+    font-size: 150px;
+    color: #698474;
+}
+
+li  {
+    list-style-type: none;
+    display: inline-block;
+    margin: auto;
+    padding: 0 10px;
+    color: #bac7a7;
+}
+
+/* Header Section */
+
+.headerBanner {
+    background-image: url("/images/bannerimage.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    height: 700px;
+}
+
+
+/* Countdown Section */
+
+#countdown {
+    padding: 20px 250px;
+    height: 300px;
+}
+
+.countdownText {
+    float: left;
+    width: 50%;
+    text-align: right;
+}
+
+.countdownImg {
+    float: right;
+}
+
+#countdownTimer {
+    text-align: right;
+    font-family: 'Rochester';
+    font-size: 50px;
+    margin: auto;
+}
+
+/* Footer */
+
+footer {
+    margin: auto;
+    padding: 20px;
+    background-color: #bac7a7;
+    text-align: center;
+}
